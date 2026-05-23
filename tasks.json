@@ -1,0 +1,42 @@
+{
+    "categories": [
+        "Arbeit",
+        "Privat",
+        "Einkäufe"
+    ],
+    "tasks": [
+        {
+            "title": "Ich muss meine Kleidung waschen.",
+            "completed": false,
+            "id": "task_1779518186235_0",
+            "priority": "Mittel",
+            "category": "Arbeit",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "created_at": "2026-05-23 12:36"
+        },
+        {
+            "id": "task_1779519431655",
+            "title": "zum Park gehen",
+            "completed": false,
+            "priority": "Mittel",
+            "category": "Arbeit",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "created_at": "2026-05-23 12:57"
+        },
+        {
+            "id": "task_1779519466547",
+            "title": "Treffen mit Freunden",
+            "completed": false,
+            "priority": "Mittel",
+            "category": "Arbeit",
+            "due_date": "",
+            "notes": "",
+            "subtasks": [],
+            "created_at": "2026-05-23 12:57"
+        }
+    ]
+}
